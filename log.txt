@@ -1,0 +1,24 @@
+The local date and time is: Sun Apr  3 16:49:57 2022
+ | What happended: Ali logged in.
+The local date and time is: Sun Apr  3 16:51:13 2022
+ | What happended: Ali logged in.
+The local date and time is: Sun Apr  3 16:51:33 2022
+ | What happended: a new file is created: tst.txt
+The local date and time is: Sun Apr  3 19:22:59 2022
+ | What happended: Ali logged in.
+The local date and time is: Sun Apr  3 19:23:17 2022
+ | What happended: a new file is created: tst.txt
+The local date and time is: Sun Apr  3 19:23:49 2022
+ | What happended: Ali logged out.
+The local date and time is: Sun Apr  3 19:30:36 2022
+ | What happended: Ali logged in.
+The local date and time is: Sun Apr  3 19:30:52 2022
+ | What happended: a new file is created: test.txt
+The local date and time is: Sun Apr  3 22:23:39 2022
+ | What happended: Ali logged in.
+The local date and time is: Sun Apr  3 22:24:36 2022
+ | What happended: Ali logged out.
+The local date and time is: Sun Apr  3 23:19:08 2022
+ | What happended: Ali logged in.
+The local date and time is: Sun Apr  3 23:19:16 2022
+ | What happended: Ali logged out.
